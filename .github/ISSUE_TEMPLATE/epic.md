@@ -1,3 +1,11 @@
+---
+name: Epic
+about: Create a new epic issue
+title: "[EPIC]"
+labels: epic
+assignees: ''
+---
+
 # [Epic] Title
 
 ## 🎯 Goal
