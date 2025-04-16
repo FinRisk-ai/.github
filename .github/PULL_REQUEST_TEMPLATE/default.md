@@ -1,3 +1,8 @@
+---
+name: 📦 Default PR Template
+about: Use this template for most pull requests
+---
+
 # 📦 Pull Request Title
 
 ## 📋 Description

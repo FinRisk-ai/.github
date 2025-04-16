@@ -1,3 +1,8 @@
+---
+name: 🔧 Chore / DevOps PR Template
+about: Use this template for pull requests related to chores and DevOps.
+---
+
 # 🔧 Chore / DevOps Pull Request
 
 ## 🧰 Summary
