@@ -1,8 +1,3 @@
----
-name: 🧪 Testing PR Template
-about: Use this template for pull requests related to testing.
----
-
 # 🧪 Testing Pull Request
 
 ## 📋 Summary
